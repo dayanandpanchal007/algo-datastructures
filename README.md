@@ -1,1 +1,1 @@
-# algo-datastructures
+# JavaScript Algorithms and Data Structures Masterclass 
